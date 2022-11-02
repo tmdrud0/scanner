@@ -1,0 +1,8 @@
+/?@@@@@@########$$$$$$$?/
+int Apple, Banana, _mellon;
+while(Apple==Banana){
+    _mellon = _mellon+1;
+    if(_mellon != 7.1e-1)   break;
+}
+
+return 0;

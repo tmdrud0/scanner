@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch",
+            "request": "launch",
+            "mainClass": "TestScanner",
+            "vmArgs": ["-Xms32m","-Xmx64m"]
+        }
+    ]
+}
